@@ -15,14 +15,13 @@
 ## 🎥 Demo Video
 
 <div align="center">
-  <video width="800" controls>
-    <source src="automate_web_scrape - Made with Clipchamp.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><em>Watch the application in action - demonstrating job creation, scheduling, and data export features</em></p>
+  <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">
+    <img src="https://img.youtube.com/vi/ZlvJ_OpLJkY/maxresdefault.jpg" alt="Automated Web Scraper Demo" width="800"/>
+  </a>
+  <p><em>🎬 Click the image above to watch the application in action</em></p>
+  <p><strong>Watch the demo:</strong> <a href="https://youtu.be/ZlvJ_OpLJkY">https://youtu.be/ZlvJ_OpLJkY</a></p>
+  <p><em>Demonstrating job creation, scheduling, data scraping, and export features</em></p>
 </div>
-
-> **Note**: If the video doesn't play in your markdown viewer, you can find it in the project root as `automate_web_scrape - Made with Clipchamp.mp4`
 
 ## 📸 Screenshots
 
