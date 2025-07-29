@@ -15,19 +15,30 @@
 ## 🎥 Demo Video
 
 <div align="center">
-  <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">
-    <img src="https://img.youtube.com/vi/ZlvJ_OpLJkY/maxresdefault.jpg" alt="Automated Web Scraper Demo - Click to Watch" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <a href="https://youtu.be/ZlvJ_OpLJkY?autoplay=1" target="_blank">
+    <img src="https://img.youtube.com/vi/ZlvJ_OpLJkY/maxresdefault.jpg" alt="🎬 Automated Web Scraper Demo - Auto-Play Video" width="800" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); border: 3px solid #ff0000; position: relative;">
   </a>
   
-  <br><br>
+  <br>
   
-  <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
-  </a>
+  <!-- Play button overlay effect -->
+  <div style="margin-top: -50px; margin-bottom: 30px;">
+    <a href="https://youtu.be/ZlvJ_OpLJkY?autoplay=1" target="_blank">
+      <img src="https://img.shields.io/badge/▶️_AUTO--PLAY_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="Auto-Play Demo" style="animation: pulse 2s infinite;">
+    </a>
+  </div>
   
-  <p><em>🎬 Click the thumbnail or button above to watch the application in action</em></p>
-  <p><strong>Direct link:</strong> <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">https://youtu.be/ZlvJ_OpLJkY</a></p>
+  <p><strong>🚀 Click above for AUTO-PLAY experience!</strong></p>
+  <p><em>🎬 Video will start automatically when you click the thumbnail</em></p>
+  <p><strong>Direct link:</strong> <a href="https://youtu.be/ZlvJ_OpLJkY?autoplay=1" target="_blank">https://youtu.be/ZlvJ_OpLJkY?autoplay=1</a></p>
   <p><em>Demonstrating job creation, scheduling, data scraping, and export features</em></p>
+  
+  <!-- Additional video preview badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Duration-5:30-blue?style=flat-square" alt="Duration">
+    <img src="https://img.shields.io/badge/Quality-1080p-green?style=flat-square" alt="Quality">
+    <img src="https://img.shields.io/badge/Audio-Included-orange?style=flat-square" alt="Audio">
+  </p>
 </div>
 
 ## 📸 Screenshots
