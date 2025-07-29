@@ -15,11 +15,9 @@
 ## 🎥 Demo Video
 
 <div align="center">
-  <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">
-    <img src="https://img.youtube.com/vi/ZlvJ_OpLJkY/maxresdefault.jpg" alt="Automated Web Scraper Demo" width="800"/>
-  </a>
-  <p><em>🎬 Click the image above to watch the application in action</em></p>
-  <p><strong>Watch the demo:</strong> <a href="https://youtu.be/ZlvJ_OpLJkY">https://youtu.be/ZlvJ_OpLJkY</a></p>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/ZlvJ_OpLJkY?autoplay=1&mute=1&loop=1&playlist=ZlvJ_OpLJkY" title="Automated Web Scraper Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <p><em>🎬 Auto-playing demo showcasing the application features</em></p>
+  <p><strong>Direct link:</strong> <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">https://youtu.be/ZlvJ_OpLJkY</a></p>
   <p><em>Demonstrating job creation, scheduling, data scraping, and export features</em></p>
 </div>
 
