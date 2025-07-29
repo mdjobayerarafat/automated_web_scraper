@@ -15,8 +15,17 @@
 ## 🎥 Demo Video
 
 <div align="center">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/ZlvJ_OpLJkY?autoplay=1&mute=1&loop=1&playlist=ZlvJ_OpLJkY" title="Automated Web Scraper Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <p><em>🎬 Auto-playing demo showcasing the application features</em></p>
+  <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">
+    <img src="https://img.youtube.com/vi/ZlvJ_OpLJkY/maxresdefault.jpg" alt="Automated Web Scraper Demo - Click to Watch" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  </a>
+  
+  <br><br>
+  
+  <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
+  
+  <p><em>🎬 Click the thumbnail or button above to watch the application in action</em></p>
   <p><strong>Direct link:</strong> <a href="https://youtu.be/ZlvJ_OpLJkY" target="_blank">https://youtu.be/ZlvJ_OpLJkY</a></p>
   <p><em>Demonstrating job creation, scheduling, data scraping, and export features</em></p>
 </div>
